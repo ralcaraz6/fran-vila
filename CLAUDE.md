@@ -1,6 +1,6 @@
 # Fran Vila – web
 
-Web estática de una sola página (`index.html`), desplegada en Vercel (plan Hobby) desde `main`. Producción: https://franvilabara.com (dominio en Namecheap apuntando a Vercel; https://fran-vila.vercel.app sigue funcionando). El email de la web, info@franvilabara.com, es un reenvío de Namecheap a cesc.vila.b@gmail.com.
+Web estática de una sola página (`index.html`), desplegada en Vercel (plan Hobby) desde `main`. Producción: https://franvilabara.com (dominio en Namecheap apuntando a Vercel; https://fran-vila.vercel.app sigue funcionando). El email de contacto de la web es cesc.vila.b@gmail.com.
 
 ## Despliegue
 
